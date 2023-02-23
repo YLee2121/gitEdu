@@ -25,7 +25,7 @@ experience team development work flow
 - Step 7: open a Pull Request on github 
 - Step 8: I will check the Pull Request and do code review on github
 
-# tool recommendations
+# Tool Recommendation
 - I personally recommend Git Graph extension on VSCODE, it's a powerful tool for git control and git management
 - In this tiny project, I will use VScode instead of xcode   
 
