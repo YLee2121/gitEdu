@@ -6,7 +6,6 @@ MINUS = '-'
 MULTIPLY = '*'
 DIVIDE = '/'
 
-
 def main():
 
     while True:
@@ -19,13 +18,12 @@ def main():
         operator = input('Enter operator: ')
 
         if operator == ADD:
-            print(adition(num1, num2))
+            print("ans is: ", adition(num1, num2))
         elif operator == MINUS:
-            print(minus(num1, num2))
+            print("ans is: ", minus(num1, num2))
         elif operator == MULTIPLY:
-            print(multiply(num1, num2))
+            print("ans is: ", multiply(num1, num2))
         elif operator == DIVIDE:
-            print(divide(num1, num2))
-        
+            print("ans is: ", divide(num1, num2))
 
         
