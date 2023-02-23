@@ -1,4 +1,7 @@
-from operator import adition, minus, multiply, divide
+from .operator import adition, minus, multiply, divide
 
 def main():
-    pass
+    print("hello world!")
+
+if __name__ == '__main__':
+    main()

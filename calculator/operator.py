@@ -1,8 +1,8 @@
-def adition():
+def adition(num1: str, num2: str, op: str) -> str:
     pass
-def minus():
+def minus(num1: str, num2: str, op: str) -> str:
     pass
-def multiply():
+def multiply(num1: str, num2: str, op: str) -> str:
     pass
-def divide():
+def divide(num1: str, num2: str, op: str) -> str:
     pass
