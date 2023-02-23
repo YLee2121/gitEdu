@@ -23,6 +23,7 @@ experience team development work flow
 - Step 5: I make a unit test template in ./unit_test folder. Due to the python dependency issue, I will test the interior package function in ./unit_test folder. You can refer the ./unit_test/main_test.py file to build your own operator_test.py file.
 - Step 6: merge the working branch into the main branch
 - Step 7: open a Pull Request on github 
+- Step 8: I will check the Pull Request and do code review on github
 
 # tool recommendations
 - I personally recommend Git Graph extension on VSCODE, it's a powerful tool for git control and git management
